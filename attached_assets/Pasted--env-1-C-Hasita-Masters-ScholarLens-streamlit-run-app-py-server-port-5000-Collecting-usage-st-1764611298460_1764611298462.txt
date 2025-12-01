@@ -1,0 +1,739 @@
+(env-1) C:\Hasita\Masters\ScholarLens>streamlit run app.py --server.port 5000
+
+Collecting usage statistics. To deactivate, set browser.gatherUsageStats to false.
+
+
+  You can now view your Streamlit app in your browser.
+
+  URL: http://0.0.0.0:5000
+
+Using OpenAI API
+Cannot set gray non-stroke color because /'P1' is an invalid float value
+Cannot set gray non-stroke color because /'P2' is an invalid float value
+Cannot set gray non-stroke color because /'P3' is an invalid float value
+Cannot set gray non-stroke color because /'P4' is an invalid float value
+Cannot set gray non-stroke color because /'P5' is an invalid float value
+Cannot set gray non-stroke color because /'P6' is an invalid float value
+Cannot set gray non-stroke color because /'P7' is an invalid float value
+Cannot set gray non-stroke color because /'P8' is an invalid float value
+Cannot set gray non-stroke color because /'P9' is an invalid float value
+Cannot set gray non-stroke color because /'P10' is an invalid float value
+Cannot set gray non-stroke color because /'P11' is an invalid float value
+Cannot set gray non-stroke color because /'P12' is an invalid float value
+Cannot set gray non-stroke color because /'P13' is an invalid float value
+Cannot set gray non-stroke color because /'P14' is an invalid float value
+Cannot set gray non-stroke color because /'P15' is an invalid float value
+Cannot set gray non-stroke color because /'P16' is an invalid float value
+Cannot set gray non-stroke color because /'P17' is an invalid float value
+Cannot set gray non-stroke color because /'P18' is an invalid float value
+Cannot set gray non-stroke color because /'P19' is an invalid float value
+Cannot set gray non-stroke color because /'P20' is an invalid float value
+Cannot set gray non-stroke color because /'P21' is an invalid float value
+Cannot set gray non-stroke color because /'P22' is an invalid float value
+Cannot set gray non-stroke color because /'P1' is an invalid float value
+Cannot set gray non-stroke color because /'P2' is an invalid float value
+Cannot set gray non-stroke color because /'P3' is an invalid float value
+Cannot set gray non-stroke color because /'P4' is an invalid float value
+Cannot set gray non-stroke color because /'P5' is an invalid float value
+Cannot set gray non-stroke color because /'P6' is an invalid float value
+Cannot set gray non-stroke color because /'P7' is an invalid float value
+Cannot set gray non-stroke color because /'P8' is an invalid float value
+Cannot set gray non-stroke color because /'P9' is an invalid float value
+Cannot set gray non-stroke color because /'P10' is an invalid float value
+Cannot set gray non-stroke color because /'P11' is an invalid float value
+Cannot set gray non-stroke color because /'P12' is an invalid float value
+Cannot set gray non-stroke color because /'P13' is an invalid float value
+Cannot set gray non-stroke color because /'P14' is an invalid float value
+Cannot set gray non-stroke color because /'P15' is an invalid float value
+Cannot set gray non-stroke color because /'P16' is an invalid float value
+Cannot set gray non-stroke color because /'P17' is an invalid float value
+Cannot set gray non-stroke color because /'P18' is an invalid float value
+Cannot set gray non-stroke color because /'P19' is an invalid float value
+Cannot set gray non-stroke color because /'P20' is an invalid float value
+Cannot set gray non-stroke color because /'P21' is an invalid float value
+Cannot set gray non-stroke color because /'P22' is an invalid float value
+Cannot set gray non-stroke color because /'P23' is an invalid float value
+Cannot set gray non-stroke color because /'P24' is an invalid float value
+Cannot set gray non-stroke color because /'P25' is an invalid float value
+Cannot set gray non-stroke color because /'P26' is an invalid float value
+Cannot set gray non-stroke color because /'P27' is an invalid float value
+Cannot set gray non-stroke color because /'P28' is an invalid float value
+Cannot set gray non-stroke color because /'P29' is an invalid float value
+Could get FontBBox from font descriptor because None cannot be parsed as 4 floats
+Could get FontBBox from font descriptor because None cannot be parsed as 4 floats
+Could get FontBBox from font descriptor because None cannot be parsed as 4 floats
+Could get FontBBox from font descriptor because None cannot be parsed as 4 floats
+Could get FontBBox from font descriptor because None cannot be parsed as 4 floats
+Could get FontBBox from font descriptor because None cannot be parsed as 4 floats
+Could get FontBBox from font descriptor because None cannot be parsed as 4 floats
+Could get FontBBox from font descriptor because None cannot be parsed as 4 floats
+Could get FontBBox from font descriptor because None cannot be parsed as 4 floats
+Could get FontBBox from font descriptor because None cannot be parsed as 4 floats
+Could get FontBBox from font descriptor because None cannot be parsed as 4 floats
+Could get FontBBox from font descriptor because None cannot be parsed as 4 floats
+Could get FontBBox from font descriptor because None cannot be parsed as 4 floats
+Could get FontBBox from font descriptor because None cannot be parsed as 4 floats
+Could get FontBBox from font descriptor because None cannot be parsed as 4 floats
+Could get FontBBox from font descriptor because None cannot be parsed as 4 floats
+Could get FontBBox from font descriptor because None cannot be parsed as 4 floats
+Could get FontBBox from font descriptor because None cannot be parsed as 4 floats
+Could get FontBBox from font descriptor because None cannot be parsed as 4 floats
+Could get FontBBox from font descriptor because None cannot be parsed as 4 floats
+Could get FontBBox from font descriptor because None cannot be parsed as 4 floats
+Could get FontBBox from font descriptor because None cannot be parsed as 4 floats
+Could get FontBBox from font descriptor because None cannot be parsed as 4 floats
+Could get FontBBox from font descriptor because None cannot be parsed as 4 floats
+Could get FontBBox from font descriptor because None cannot be parsed as 4 floats
+Could get FontBBox from font descriptor because None cannot be parsed as 4 floats
+Could get FontBBox from font descriptor because None cannot be parsed as 4 floats
+Could get FontBBox from font descriptor because None cannot be parsed as 4 floats
+Could get FontBBox from font descriptor because None cannot be parsed as 4 floats
+Could get FontBBox from font descriptor because None cannot be parsed as 4 floats
+Could get FontBBox from font descriptor because None cannot be parsed as 4 floats
+Could get FontBBox from font descriptor because None cannot be parsed as 4 floats
+Could get FontBBox from font descriptor because None cannot be parsed as 4 floats
+Could get FontBBox from font descriptor because None cannot be parsed as 4 floats
+Could get FontBBox from font descriptor because None cannot be parsed as 4 floats
+Could get FontBBox from font descriptor because None cannot be parsed as 4 floats
+Could get FontBBox from font descriptor because None cannot be parsed as 4 floats
+Could get FontBBox from font descriptor because None cannot be parsed as 4 floats
+Could get FontBBox from font descriptor because None cannot be parsed as 4 floats
+Could get FontBBox from font descriptor because None cannot be parsed as 4 floats
+Could get FontBBox from font descriptor because None cannot be parsed as 4 floats
+Could get FontBBox from font descriptor because None cannot be parsed as 4 floats
+Could get FontBBox from font descriptor because None cannot be parsed as 4 floats
+Could get FontBBox from font descriptor because None cannot be parsed as 4 floats
+Could get FontBBox from font descriptor because None cannot be parsed as 4 floats
+Could get FontBBox from font descriptor because None cannot be parsed as 4 floats
+Could get FontBBox from font descriptor because None cannot be parsed as 4 floats
+Could get FontBBox from font descriptor because None cannot be parsed as 4 floats
+Could get FontBBox from font descriptor because None cannot be parsed as 4 floats
+Could get FontBBox from font descriptor because None cannot be parsed as 4 floats
+Could get FontBBox from font descriptor because None cannot be parsed as 4 floats
+Could get FontBBox from font descriptor because None cannot be parsed as 4 floats
+Could get FontBBox from font descriptor because None cannot be parsed as 4 floats
+Could get FontBBox from font descriptor because None cannot be parsed as 4 floats
+Could get FontBBox from font descriptor because None cannot be parsed as 4 floats
+Could get FontBBox from font descriptor because None cannot be parsed as 4 floats
+Could get FontBBox from font descriptor because None cannot be parsed as 4 floats
+Could get FontBBox from font descriptor because None cannot be parsed as 4 floats
+Could get FontBBox from font descriptor because None cannot be parsed as 4 floats
+Could get FontBBox from font descriptor because None cannot be parsed as 4 floats
+Could get FontBBox from font descriptor because None cannot be parsed as 4 floats
+Could get FontBBox from font descriptor because None cannot be parsed as 4 floats
+Could get FontBBox from font descriptor because None cannot be parsed as 4 floats
+Could get FontBBox from font descriptor because None cannot be parsed as 4 floats
+Could get FontBBox from font descriptor because None cannot be parsed as 4 floats
+Could get FontBBox from font descriptor because None cannot be parsed as 4 floats
+Could get FontBBox from font descriptor because None cannot be parsed as 4 floats
+Could get FontBBox from font descriptor because None cannot be parsed as 4 floats
+Could get FontBBox from font descriptor because None cannot be parsed as 4 floats
+Could get FontBBox from font descriptor because None cannot be parsed as 4 floats
+Could get FontBBox from font descriptor because None cannot be parsed as 4 floats
+Could get FontBBox from font descriptor because None cannot be parsed as 4 floats
+Could get FontBBox from font descriptor because None cannot be parsed as 4 floats
+Could get FontBBox from font descriptor because None cannot be parsed as 4 floats
+Could get FontBBox from font descriptor because None cannot be parsed as 4 floats
+Could get FontBBox from font descriptor because None cannot be parsed as 4 floats
+Could get FontBBox from font descriptor because None cannot be parsed as 4 floats
+Cannot set gray non-stroke color because /'P1' is an invalid float value
+Cannot set gray non-stroke color because /'P2' is an invalid float value
+Cannot set gray non-stroke color because /'P3' is an invalid float value
+Cannot set gray non-stroke color because /'P4' is an invalid float value
+Cannot set gray non-stroke color because /'P5' is an invalid float value
+Cannot set gray non-stroke color because /'P6' is an invalid float value
+Cannot set gray non-stroke color because /'P7' is an invalid float value
+Cannot set gray non-stroke color because /'P8' is an invalid float value
+Cannot set gray non-stroke color because /'P9' is an invalid float value
+Cannot set gray non-stroke color because /'P10' is an invalid float value
+Cannot set gray non-stroke color because /'P11' is an invalid float value
+Cannot set gray non-stroke color because /'P12' is an invalid float value
+Cannot set gray non-stroke color because /'P13' is an invalid float value
+Cannot set gray non-stroke color because /'P14' is an invalid float value
+Cannot set gray non-stroke color because /'P15' is an invalid float value
+Cannot set gray non-stroke color because /'P16' is an invalid float value
+Cannot set gray non-stroke color because /'P17' is an invalid float value
+Cannot set gray non-stroke color because /'P18' is an invalid float value
+Cannot set gray non-stroke color because /'P19' is an invalid float value
+Cannot set gray non-stroke color because /'P20' is an invalid float value
+Cannot set gray non-stroke color because /'P21' is an invalid float value
+Cannot set gray non-stroke color because /'P22' is an invalid float value
+Cannot set gray non-stroke color because /'P23' is an invalid float value
+Could get FontBBox from font descriptor because None cannot be parsed as 4 floats
+Could get FontBBox from font descriptor because None cannot be parsed as 4 floats
+Could get FontBBox from font descriptor because None cannot be parsed as 4 floats
+Could get FontBBox from font descriptor because None cannot be parsed as 4 floats
+Could get FontBBox from font descriptor because None cannot be parsed as 4 floats
+Could get FontBBox from font descriptor because None cannot be parsed as 4 floats
+Could get FontBBox from font descriptor because None cannot be parsed as 4 floats
+Could get FontBBox from font descriptor because None cannot be parsed as 4 floats
+Could get FontBBox from font descriptor because None cannot be parsed as 4 floats
+Could get FontBBox from font descriptor because None cannot be parsed as 4 floats
+Could get FontBBox from font descriptor because None cannot be parsed as 4 floats
+Could get FontBBox from font descriptor because None cannot be parsed as 4 floats
+Could get FontBBox from font descriptor because None cannot be parsed as 4 floats
+Could get FontBBox from font descriptor because None cannot be parsed as 4 floats
+Could get FontBBox from font descriptor because None cannot be parsed as 4 floats
+Could get FontBBox from font descriptor because None cannot be parsed as 4 floats
+Could get FontBBox from font descriptor because None cannot be parsed as 4 floats
+Could get FontBBox from font descriptor because None cannot be parsed as 4 floats
+Could get FontBBox from font descriptor because None cannot be parsed as 4 floats
+Could get FontBBox from font descriptor because None cannot be parsed as 4 floats
+Could get FontBBox from font descriptor because None cannot be parsed as 4 floats
+Could get FontBBox from font descriptor because None cannot be parsed as 4 floats
+Cannot set gray non-stroke color because /'P1' is an invalid float value
+Cannot set gray non-stroke color because /'P2' is an invalid float value
+Cannot set gray non-stroke color because /'P3' is an invalid float value
+Cannot set gray non-stroke color because /'P4' is an invalid float value
+Cannot set gray non-stroke color because /'P5' is an invalid float value
+Cannot set gray non-stroke color because /'P6' is an invalid float value
+Cannot set gray non-stroke color because /'P7' is an invalid float value
+Cannot set gray non-stroke color because /'P8' is an invalid float value
+Cannot set gray non-stroke color because /'P9' is an invalid float value
+Cannot set gray non-stroke color because /'P10' is an invalid float value
+Cannot set gray non-stroke color because /'P11' is an invalid float value
+Cannot set gray non-stroke color because /'P12' is an invalid float value
+Cannot set gray non-stroke color because /'P13' is an invalid float value
+Cannot set gray non-stroke color because /'P14' is an invalid float value
+Cannot set gray non-stroke color because /'P15' is an invalid float value
+Cannot set gray non-stroke color because /'P16' is an invalid float value
+Cannot set gray non-stroke color because /'P17' is an invalid float value
+Cannot set gray non-stroke color because /'P18' is an invalid float value
+Cannot set gray non-stroke color because /'P19' is an invalid float value
+Cannot set gray non-stroke color because /'P20' is an invalid float value
+Cannot set gray non-stroke color because /'P21' is an invalid float value
+Cannot set gray non-stroke color because /'P22' is an invalid float value
+Cannot set gray non-stroke color because /'H1' is an invalid float value
+Cannot set gray non-stroke color because /'H1' is an invalid float value
+Cannot set gray non-stroke color because /'H1' is an invalid float value
+Cannot set gray non-stroke color because /'H1' is an invalid float value
+Cannot set gray non-stroke color because /'H1' is an invalid float value
+Cannot set gray non-stroke color because /'H1' is an invalid float value
+Cannot set gray non-stroke color because /'H2' is an invalid float value
+Cannot set gray non-stroke color because /'H2' is an invalid float value
+Cannot set gray non-stroke color because /'H2' is an invalid float value
+Cannot set gray non-stroke color because /'H2' is an invalid float value
+Cannot set gray non-stroke color because /'H2' is an invalid float value
+Cannot set gray non-stroke color because /'H2' is an invalid float value
+Cannot set gray non-stroke color because /'H3' is an invalid float value
+Cannot set gray non-stroke color because /'H3' is an invalid float value
+Cannot set gray non-stroke color because /'H3' is an invalid float value
+Cannot set gray non-stroke color because /'H3' is an invalid float value
+Cannot set gray non-stroke color because /'H3' is an invalid float value
+Cannot set gray non-stroke color because /'H3' is an invalid float value
+Cannot set gray non-stroke color because /'H4' is an invalid float value
+Cannot set gray non-stroke color because /'H4' is an invalid float value
+Cannot set gray non-stroke color because /'H4' is an invalid float value
+Cannot set gray non-stroke color because /'H4' is an invalid float value
+Cannot set gray non-stroke color because /'H4' is an invalid float value
+Cannot set gray non-stroke color because /'H4' is an invalid float value
+Cannot set gray non-stroke color because /'H5' is an invalid float value
+Cannot set gray non-stroke color because /'H5' is an invalid float value
+Cannot set gray non-stroke color because /'H5' is an invalid float value
+Cannot set gray non-stroke color because /'H5' is an invalid float value
+Cannot set gray non-stroke color because /'H5' is an invalid float value
+Cannot set gray non-stroke color because /'H5' is an invalid float value
+Cannot set gray non-stroke color because /'H1' is an invalid float value
+Cannot set gray non-stroke color because /'H1' is an invalid float value
+Cannot set gray non-stroke color because /'H1' is an invalid float value
+Cannot set gray non-stroke color because /'H1' is an invalid float value
+Cannot set gray non-stroke color because /'H1' is an invalid float value
+Cannot set gray non-stroke color because /'H1' is an invalid float value
+Cannot set gray non-stroke color because /'H2' is an invalid float value
+Cannot set gray non-stroke color because /'H2' is an invalid float value
+Cannot set gray non-stroke color because /'H2' is an invalid float value
+Cannot set gray non-stroke color because /'H2' is an invalid float value
+Cannot set gray non-stroke color because /'H2' is an invalid float value
+Cannot set gray non-stroke color because /'H2' is an invalid float value
+Cannot set gray non-stroke color because /'H3' is an invalid float value
+Cannot set gray non-stroke color because /'H3' is an invalid float value
+Cannot set gray non-stroke color because /'H3' is an invalid float value
+Cannot set gray non-stroke color because /'H3' is an invalid float value
+Cannot set gray non-stroke color because /'H3' is an invalid float value
+Cannot set gray non-stroke color because /'H3' is an invalid float value
+Cannot set gray non-stroke color because /'H4' is an invalid float value
+Cannot set gray non-stroke color because /'H4' is an invalid float value
+Cannot set gray non-stroke color because /'H4' is an invalid float value
+Cannot set gray non-stroke color because /'H4' is an invalid float value
+Cannot set gray non-stroke color because /'H4' is an invalid float value
+Cannot set gray non-stroke color because /'H4' is an invalid float value
+Cannot set gray non-stroke color because /'H5' is an invalid float value
+Cannot set gray non-stroke color because /'H5' is an invalid float value
+Cannot set gray non-stroke color because /'H5' is an invalid float value
+Cannot set gray non-stroke color because /'H5' is an invalid float value
+Cannot set gray non-stroke color because /'H5' is an invalid float value
+Cannot set gray non-stroke color because /'H5' is an invalid float value
+Cannot set gray non-stroke color because /'H1' is an invalid float value
+Cannot set gray non-stroke color because /'H1' is an invalid float value
+Cannot set gray non-stroke color because /'H1' is an invalid float value
+Cannot set gray non-stroke color because /'H1' is an invalid float value
+Cannot set gray non-stroke color because /'H1' is an invalid float value
+Cannot set gray non-stroke color because /'H1' is an invalid float value
+Cannot set gray non-stroke color because /'H2' is an invalid float value
+Cannot set gray non-stroke color because /'H2' is an invalid float value
+Cannot set gray non-stroke color because /'H2' is an invalid float value
+Cannot set gray non-stroke color because /'H2' is an invalid float value
+Cannot set gray non-stroke color because /'H2' is an invalid float value
+Cannot set gray non-stroke color because /'H2' is an invalid float value
+Cannot set gray non-stroke color because /'H3' is an invalid float value
+Cannot set gray non-stroke color because /'H3' is an invalid float value
+Cannot set gray non-stroke color because /'H3' is an invalid float value
+Cannot set gray non-stroke color because /'H3' is an invalid float value
+Cannot set gray non-stroke color because /'H3' is an invalid float value
+Cannot set gray non-stroke color because /'H3' is an invalid float value
+Cannot set gray non-stroke color because /'H4' is an invalid float value
+Cannot set gray non-stroke color because /'H4' is an invalid float value
+Cannot set gray non-stroke color because /'H4' is an invalid float value
+Cannot set gray non-stroke color because /'H4' is an invalid float value
+Cannot set gray non-stroke color because /'H4' is an invalid float value
+Cannot set gray non-stroke color because /'H4' is an invalid float value
+Cannot set gray non-stroke color because /'H5' is an invalid float value
+Cannot set gray non-stroke color because /'H5' is an invalid float value
+Cannot set gray non-stroke color because /'H5' is an invalid float value
+Cannot set gray non-stroke color because /'H5' is an invalid float value
+Cannot set gray non-stroke color because /'H5' is an invalid float value
+Cannot set gray non-stroke color because /'H5' is an invalid float value
+Cannot set gray non-stroke color because /'H6' is an invalid float value
+Cannot set gray non-stroke color because /'H1' is an invalid float value
+Cannot set gray non-stroke color because /'H7' is an invalid float value
+Cannot set gray non-stroke color because /'H2' is an invalid float value
+Cannot set gray non-stroke color because /'H8' is an invalid float value
+Cannot set gray non-stroke color because /'H3' is an invalid float value
+Cannot set gray non-stroke color because /'H9' is an invalid float value
+Cannot set gray non-stroke color because /'H4' is an invalid float value
+Cannot set gray non-stroke color because /'H10' is an invalid float value
+Cannot set gray non-stroke color because /'H5' is an invalid float value
+Cannot set gray non-stroke color because /'H1' is an invalid float value
+Cannot set gray non-stroke color because /'H1' is an invalid float value
+Cannot set gray non-stroke color because /'H1' is an invalid float value
+Cannot set gray non-stroke color because /'H1' is an invalid float value
+Cannot set gray non-stroke color because /'H1' is an invalid float value
+Cannot set gray non-stroke color because /'H1' is an invalid float value
+Cannot set gray non-stroke color because /'H2' is an invalid float value
+Cannot set gray non-stroke color because /'H2' is an invalid float value
+Cannot set gray non-stroke color because /'H2' is an invalid float value
+Cannot set gray non-stroke color because /'H2' is an invalid float value
+Cannot set gray non-stroke color because /'H2' is an invalid float value
+Cannot set gray non-stroke color because /'H2' is an invalid float value
+Cannot set gray non-stroke color because /'H3' is an invalid float value
+Cannot set gray non-stroke color because /'H3' is an invalid float value
+Cannot set gray non-stroke color because /'H3' is an invalid float value
+Cannot set gray non-stroke color because /'H3' is an invalid float value
+Cannot set gray non-stroke color because /'H3' is an invalid float value
+Cannot set gray non-stroke color because /'H3' is an invalid float value
+Cannot set gray non-stroke color because /'H4' is an invalid float value
+Cannot set gray non-stroke color because /'H4' is an invalid float value
+Cannot set gray non-stroke color because /'H4' is an invalid float value
+Cannot set gray non-stroke color because /'H4' is an invalid float value
+Cannot set gray non-stroke color because /'H4' is an invalid float value
+Cannot set gray non-stroke color because /'H4' is an invalid float value
+Cannot set gray non-stroke color because /'H5' is an invalid float value
+Cannot set gray non-stroke color because /'H5' is an invalid float value
+Cannot set gray non-stroke color because /'H5' is an invalid float value
+Cannot set gray non-stroke color because /'H5' is an invalid float value
+Cannot set gray non-stroke color because /'H5' is an invalid float value
+Cannot set gray non-stroke color because /'H5' is an invalid float value
+Cannot set gray non-stroke color because /'H1' is an invalid float value
+Cannot set gray non-stroke color because /'H1' is an invalid float value
+Cannot set gray non-stroke color because /'H1' is an invalid float value
+Cannot set gray non-stroke color because /'H1' is an invalid float value
+Cannot set gray non-stroke color because /'H1' is an invalid float value
+Cannot set gray non-stroke color because /'H1' is an invalid float value
+Cannot set gray non-stroke color because /'H2' is an invalid float value
+Cannot set gray non-stroke color because /'H2' is an invalid float value
+Cannot set gray non-stroke color because /'H2' is an invalid float value
+Cannot set gray non-stroke color because /'H2' is an invalid float value
+Cannot set gray non-stroke color because /'H2' is an invalid float value
+Cannot set gray non-stroke color because /'H2' is an invalid float value
+Cannot set gray non-stroke color because /'H3' is an invalid float value
+Cannot set gray non-stroke color because /'H3' is an invalid float value
+Cannot set gray non-stroke color because /'H3' is an invalid float value
+Cannot set gray non-stroke color because /'H3' is an invalid float value
+Cannot set gray non-stroke color because /'H3' is an invalid float value
+Cannot set gray non-stroke color because /'H3' is an invalid float value
+Cannot set gray non-stroke color because /'H4' is an invalid float value
+Cannot set gray non-stroke color because /'H4' is an invalid float value
+Cannot set gray non-stroke color because /'H4' is an invalid float value
+Cannot set gray non-stroke color because /'H4' is an invalid float value
+Cannot set gray non-stroke color because /'H4' is an invalid float value
+Cannot set gray non-stroke color because /'H4' is an invalid float value
+Cannot set gray non-stroke color because /'H5' is an invalid float value
+Cannot set gray non-stroke color because /'H5' is an invalid float value
+Cannot set gray non-stroke color because /'H5' is an invalid float value
+Cannot set gray non-stroke color because /'H5' is an invalid float value
+Cannot set gray non-stroke color because /'H5' is an invalid float value
+Cannot set gray non-stroke color because /'H5' is an invalid float value
+Cannot set gray non-stroke color because /'H1' is an invalid float value
+Cannot set gray non-stroke color because /'H1' is an invalid float value
+Cannot set gray non-stroke color because /'H1' is an invalid float value
+Cannot set gray non-stroke color because /'H1' is an invalid float value
+Cannot set gray non-stroke color because /'H1' is an invalid float value
+Cannot set gray non-stroke color because /'H1' is an invalid float value
+Cannot set gray non-stroke color because /'H2' is an invalid float value
+Cannot set gray non-stroke color because /'H2' is an invalid float value
+Cannot set gray non-stroke color because /'H2' is an invalid float value
+Cannot set gray non-stroke color because /'H2' is an invalid float value
+Cannot set gray non-stroke color because /'H2' is an invalid float value
+Cannot set gray non-stroke color because /'H2' is an invalid float value
+Cannot set gray non-stroke color because /'H3' is an invalid float value
+Cannot set gray non-stroke color because /'H3' is an invalid float value
+Cannot set gray non-stroke color because /'H3' is an invalid float value
+Cannot set gray non-stroke color because /'H3' is an invalid float value
+Cannot set gray non-stroke color because /'H3' is an invalid float value
+Cannot set gray non-stroke color because /'H3' is an invalid float value
+Cannot set gray non-stroke color because /'H4' is an invalid float value
+Cannot set gray non-stroke color because /'H4' is an invalid float value
+Cannot set gray non-stroke color because /'H4' is an invalid float value
+Cannot set gray non-stroke color because /'H4' is an invalid float value
+Cannot set gray non-stroke color because /'H4' is an invalid float value
+Cannot set gray non-stroke color because /'H4' is an invalid float value
+Cannot set gray non-stroke color because /'H5' is an invalid float value
+Cannot set gray non-stroke color because /'H5' is an invalid float value
+Cannot set gray non-stroke color because /'H5' is an invalid float value
+Cannot set gray non-stroke color because /'H5' is an invalid float value
+Cannot set gray non-stroke color because /'H5' is an invalid float value
+Cannot set gray non-stroke color because /'H5' is an invalid float value
+Cannot set gray non-stroke color because /'H1' is an invalid float value
+Cannot set gray non-stroke color because /'H1' is an invalid float value
+Cannot set gray non-stroke color because /'H1' is an invalid float value
+Cannot set gray non-stroke color because /'H1' is an invalid float value
+Cannot set gray non-stroke color because /'H1' is an invalid float value
+Cannot set gray non-stroke color because /'H2' is an invalid float value
+Cannot set gray non-stroke color because /'H2' is an invalid float value
+Cannot set gray non-stroke color because /'H2' is an invalid float value
+Cannot set gray non-stroke color because /'H2' is an invalid float value
+Cannot set gray non-stroke color because /'H2' is an invalid float value
+Cannot set gray non-stroke color because /'H3' is an invalid float value
+Cannot set gray non-stroke color because /'H3' is an invalid float value
+Cannot set gray non-stroke color because /'H3' is an invalid float value
+Cannot set gray non-stroke color because /'H3' is an invalid float value
+Cannot set gray non-stroke color because /'H3' is an invalid float value
+Cannot set gray non-stroke color because /'H4' is an invalid float value
+Cannot set gray non-stroke color because /'H4' is an invalid float value
+Cannot set gray non-stroke color because /'H4' is an invalid float value
+Cannot set gray non-stroke color because /'H4' is an invalid float value
+Cannot set gray non-stroke color because /'H4' is an invalid float value
+Cannot set gray non-stroke color because /'H5' is an invalid float value
+Cannot set gray non-stroke color because /'H5' is an invalid float value
+Cannot set gray non-stroke color because /'H5' is an invalid float value
+Cannot set gray non-stroke color because /'H5' is an invalid float value
+Cannot set gray non-stroke color because /'H5' is an invalid float value
+Cannot set gray non-stroke color because /'H1' is an invalid float value
+Cannot set gray non-stroke color because /'H1' is an invalid float value
+Cannot set gray non-stroke color because /'H1' is an invalid float value
+Cannot set gray non-stroke color because /'H1' is an invalid float value
+Cannot set gray non-stroke color because /'H1' is an invalid float value
+Cannot set gray non-stroke color because /'H2' is an invalid float value
+Cannot set gray non-stroke color because /'H2' is an invalid float value
+Cannot set gray non-stroke color because /'H2' is an invalid float value
+Cannot set gray non-stroke color because /'H2' is an invalid float value
+Cannot set gray non-stroke color because /'H2' is an invalid float value
+Cannot set gray non-stroke color because /'H3' is an invalid float value
+Cannot set gray non-stroke color because /'H3' is an invalid float value
+Cannot set gray non-stroke color because /'H3' is an invalid float value
+Cannot set gray non-stroke color because /'H3' is an invalid float value
+Cannot set gray non-stroke color because /'H3' is an invalid float value
+Cannot set gray non-stroke color because /'H4' is an invalid float value
+Cannot set gray non-stroke color because /'H4' is an invalid float value
+Cannot set gray non-stroke color because /'H4' is an invalid float value
+Cannot set gray non-stroke color because /'H4' is an invalid float value
+Cannot set gray non-stroke color because /'H4' is an invalid float value
+Cannot set gray non-stroke color because /'H5' is an invalid float value
+Cannot set gray non-stroke color because /'H5' is an invalid float value
+Cannot set gray non-stroke color because /'H5' is an invalid float value
+Cannot set gray non-stroke color because /'H5' is an invalid float value
+Cannot set gray non-stroke color because /'H5' is an invalid float value
+Cannot set gray non-stroke color because /'H1' is an invalid float value
+Cannot set gray non-stroke color because /'H1' is an invalid float value
+Cannot set gray non-stroke color because /'H1' is an invalid float value
+Cannot set gray non-stroke color because /'H1' is an invalid float value
+Cannot set gray non-stroke color because /'H1' is an invalid float value
+Cannot set gray non-stroke color because /'H2' is an invalid float value
+Cannot set gray non-stroke color because /'H2' is an invalid float value
+Cannot set gray non-stroke color because /'H2' is an invalid float value
+Cannot set gray non-stroke color because /'H2' is an invalid float value
+Cannot set gray non-stroke color because /'H2' is an invalid float value
+Cannot set gray non-stroke color because /'H3' is an invalid float value
+Cannot set gray non-stroke color because /'H3' is an invalid float value
+Cannot set gray non-stroke color because /'H3' is an invalid float value
+Cannot set gray non-stroke color because /'H3' is an invalid float value
+Cannot set gray non-stroke color because /'H3' is an invalid float value
+Cannot set gray non-stroke color because /'H4' is an invalid float value
+Cannot set gray non-stroke color because /'H4' is an invalid float value
+Cannot set gray non-stroke color because /'H4' is an invalid float value
+Cannot set gray non-stroke color because /'H4' is an invalid float value
+Cannot set gray non-stroke color because /'H4' is an invalid float value
+Cannot set gray non-stroke color because /'H5' is an invalid float value
+Cannot set gray non-stroke color because /'H5' is an invalid float value
+Cannot set gray non-stroke color because /'H5' is an invalid float value
+Cannot set gray non-stroke color because /'H5' is an invalid float value
+Cannot set gray non-stroke color because /'H5' is an invalid float value
+Cannot set gray non-stroke color because /'H1' is an invalid float value
+Cannot set gray non-stroke color because /'H1' is an invalid float value
+Cannot set gray non-stroke color because /'H1' is an invalid float value
+Cannot set gray non-stroke color because /'H1' is an invalid float value
+Cannot set gray non-stroke color because /'H1' is an invalid float value
+Cannot set gray non-stroke color because /'H2' is an invalid float value
+Cannot set gray non-stroke color because /'H2' is an invalid float value
+Cannot set gray non-stroke color because /'H2' is an invalid float value
+Cannot set gray non-stroke color because /'H2' is an invalid float value
+Cannot set gray non-stroke color because /'H2' is an invalid float value
+Cannot set gray non-stroke color because /'H3' is an invalid float value
+Cannot set gray non-stroke color because /'H3' is an invalid float value
+Cannot set gray non-stroke color because /'H3' is an invalid float value
+Cannot set gray non-stroke color because /'H3' is an invalid float value
+Cannot set gray non-stroke color because /'H3' is an invalid float value
+Cannot set gray non-stroke color because /'H4' is an invalid float value
+Cannot set gray non-stroke color because /'H4' is an invalid float value
+Cannot set gray non-stroke color because /'H4' is an invalid float value
+Cannot set gray non-stroke color because /'H4' is an invalid float value
+Cannot set gray non-stroke color because /'H4' is an invalid float value
+Cannot set gray non-stroke color because /'H5' is an invalid float value
+Cannot set gray non-stroke color because /'H5' is an invalid float value
+Cannot set gray non-stroke color because /'H5' is an invalid float value
+Cannot set gray non-stroke color because /'H5' is an invalid float value
+Cannot set gray non-stroke color because /'H5' is an invalid float value
+Cannot set gray non-stroke color because /'H1' is an invalid float value
+Cannot set gray non-stroke color because /'H1' is an invalid float value
+Cannot set gray non-stroke color because /'H2' is an invalid float value
+Cannot set gray non-stroke color because /'H2' is an invalid float value
+Cannot set gray non-stroke color because /'H3' is an invalid float value
+Cannot set gray non-stroke color because /'H3' is an invalid float value
+Cannot set gray non-stroke color because /'H4' is an invalid float value
+Cannot set gray non-stroke color because /'H4' is an invalid float value
+Cannot set gray non-stroke color because /'H5' is an invalid float value
+Cannot set gray non-stroke color because /'H5' is an invalid float value
+Cannot set gray non-stroke color because /'H4' is an invalid float value
+Cannot set gray non-stroke color because /'H4' is an invalid float value
+Cannot set gray non-stroke color because /'H4' is an invalid float value
+Cannot set gray non-stroke color because /'H4' is an invalid float value
+Cannot set gray non-stroke color because /'H4' is an invalid float value
+Cannot set gray non-stroke color because /'H2' is an invalid float value
+Cannot set gray non-stroke color because /'H2' is an invalid float value
+Cannot set gray non-stroke color because /'H2' is an invalid float value
+Cannot set gray non-stroke color because /'H2' is an invalid float value
+Cannot set gray non-stroke color because /'H2' is an invalid float value
+Cannot set gray non-stroke color because /'H1' is an invalid float value
+Cannot set gray non-stroke color because /'H1' is an invalid float value
+Cannot set gray non-stroke color because /'H1' is an invalid float value
+Cannot set gray non-stroke color because /'H1' is an invalid float value
+Cannot set gray non-stroke color because /'H1' is an invalid float value
+Cannot set gray non-stroke color because /'H3' is an invalid float value
+Cannot set gray non-stroke color because /'H3' is an invalid float value
+Cannot set gray non-stroke color because /'H3' is an invalid float value
+Cannot set gray non-stroke color because /'H3' is an invalid float value
+Cannot set gray non-stroke color because /'H3' is an invalid float value
+Cannot set gray non-stroke color because /'H6' is an invalid float value
+Cannot set gray non-stroke color because /'H6' is an invalid float value
+Cannot set gray non-stroke color because /'H6' is an invalid float value
+Cannot set gray non-stroke color because /'H6' is an invalid float value
+Cannot set gray non-stroke color because /'H6' is an invalid float value
+Cannot set gray non-stroke color because /'H7' is an invalid float value
+Cannot set gray non-stroke color because /'H1' is an invalid float value
+Cannot set gray non-stroke color because /'H8' is an invalid float value
+Cannot set gray non-stroke color because /'H2' is an invalid float value
+Cannot set gray non-stroke color because /'H9' is an invalid float value
+Cannot set gray non-stroke color because /'H3' is an invalid float value
+Cannot set gray non-stroke color because /'H10' is an invalid float value
+Cannot set gray non-stroke color because /'H4' is an invalid float value
+Cannot set gray non-stroke color because /'H11' is an invalid float value
+Cannot set gray non-stroke color because /'H5' is an invalid float value
+Cannot set gray non-stroke color because /'H12' is an invalid float value
+Cannot set gray non-stroke color because /'H6' is an invalid float value
+Cannot set gray non-stroke color because /'H1' is an invalid float value
+Cannot set gray non-stroke color because /'H1' is an invalid float value
+Cannot set gray non-stroke color because /'H2' is an invalid float value
+Cannot set gray non-stroke color because /'H2' is an invalid float value
+Cannot set gray non-stroke color because /'H3' is an invalid float value
+Cannot set gray non-stroke color because /'H3' is an invalid float value
+Cannot set gray non-stroke color because /'H4' is an invalid float value
+Cannot set gray non-stroke color because /'H4' is an invalid float value
+Cannot set gray non-stroke color because /'H5' is an invalid float value
+Cannot set gray non-stroke color because /'H5' is an invalid float value
+Cannot set gray non-stroke color because /'H1' is an invalid float value
+Cannot set gray non-stroke color because /'H1' is an invalid float value
+Cannot set gray non-stroke color because /'H1' is an invalid float value
+Cannot set gray non-stroke color because /'H1' is an invalid float value
+Cannot set gray non-stroke color because /'H1' is an invalid float value
+Cannot set gray non-stroke color because /'H2' is an invalid float value
+Cannot set gray non-stroke color because /'H2' is an invalid float value
+Cannot set gray non-stroke color because /'H2' is an invalid float value
+Cannot set gray non-stroke color because /'H2' is an invalid float value
+Cannot set gray non-stroke color because /'H2' is an invalid float value
+Cannot set gray non-stroke color because /'H3' is an invalid float value
+Cannot set gray non-stroke color because /'H3' is an invalid float value
+Cannot set gray non-stroke color because /'H3' is an invalid float value
+Cannot set gray non-stroke color because /'H3' is an invalid float value
+Cannot set gray non-stroke color because /'H3' is an invalid float value
+Cannot set gray non-stroke color because /'H4' is an invalid float value
+Cannot set gray non-stroke color because /'H4' is an invalid float value
+Cannot set gray non-stroke color because /'H4' is an invalid float value
+Cannot set gray non-stroke color because /'H4' is an invalid float value
+Cannot set gray non-stroke color because /'H4' is an invalid float value
+Cannot set gray non-stroke color because /'H5' is an invalid float value
+Cannot set gray non-stroke color because /'H5' is an invalid float value
+Cannot set gray non-stroke color because /'H5' is an invalid float value
+Cannot set gray non-stroke color because /'H5' is an invalid float value
+Cannot set gray non-stroke color because /'H5' is an invalid float value
+C:\Hasita\env-1\Lib\site-packages\sklearn\base.py:1365: ConvergenceWarning: Number of distinct clusters (3) found smaller than n_clusters (4). Possibly due to duplicate points in X.
+  return fit_method(estimator, *args, **kwargs)
+C:\Hasita\env-1\Lib\site-packages\sklearn\base.py:1365: ConvergenceWarning: Number of distinct clusters (3) found smaller than n_clusters (5). Possibly due to duplicate points in X.
+  return fit_method(estimator, *args, **kwargs)
+C:\Hasita\env-1\Lib\site-packages\sklearn\base.py:1365: ConvergenceWarning: Number of distinct clusters (4) found smaller than n_clusters (5). Possibly due to duplicate points in X.
+  return fit_method(estimator, *args, **kwargs)
+C:\Hasita\env-1\Lib\site-packages\sklearn\base.py:1365: ConvergenceWarning: Number of distinct clusters (4) found smaller than n_clusters (6). Possibly due to duplicate points in X.
+  return fit_method(estimator, *args, **kwargs)
+2025-12-01 12:30:32.595 Please replace `use_container_width` with `width`.
+
+`use_container_width` will be removed after 2025-12-31.
+
+For `use_container_width=True`, use `width='stretch'`. For `use_container_width=False`, use `width='content'`.
+2025-12-01 12:30:32.652 Please replace `use_container_width` with `width`.
+
+`use_container_width` will be removed after 2025-12-31.
+
+For `use_container_width=True`, use `width='stretch'`. For `use_container_width=False`, use `width='content'`.
+2025-12-01 12:30:32.670 Please replace `use_container_width` with `width`.
+
+`use_container_width` will be removed after 2025-12-31.
+
+For `use_container_width=True`, use `width='stretch'`. For `use_container_width=False`, use `width='content'`.
+C:\Hasita\Masters\ScholarLens\app.py:630: LegacyAPIWarning:
+
+The Query.get() method is considered legacy as of the 1.x series of SQLAlchemy and becomes a legacy construct in 2.0. The method is now available as Session.get() (deprecated since: 2.0) (Background on SQLAlchemy 2.0 at: https://sqlalche.me/e/b8d9)
+
+2025-12-01 12:30:51.244 Please replace `use_container_width` with `width`.
+
+`use_container_width` will be removed after 2025-12-31.
+
+For `use_container_width=True`, use `width='stretch'`. For `use_container_width=False`, use `width='content'`.
+2025-12-01 12:30:51.251 Please replace `use_container_width` with `width`.
+
+`use_container_width` will be removed after 2025-12-31.
+
+For `use_container_width=True`, use `width='stretch'`. For `use_container_width=False`, use `width='content'`.
+2025-12-01 12:30:51.313 Please replace `use_container_width` with `width`.
+
+`use_container_width` will be removed after 2025-12-31.
+
+For `use_container_width=True`, use `width='stretch'`. For `use_container_width=False`, use `width='content'`.
+2025-12-01 12:30:51.349 Please replace `use_container_width` with `width`.
+
+`use_container_width` will be removed after 2025-12-31.
+
+For `use_container_width=True`, use `width='stretch'`. For `use_container_width=False`, use `width='content'`.
+2025-12-01 12:30:51.418 Please replace `use_container_width` with `width`.
+
+`use_container_width` will be removed after 2025-12-31.
+
+For `use_container_width=True`, use `width='stretch'`. For `use_container_width=False`, use `width='content'`.
+2025-12-01 12:32:38.606 Please replace `use_container_width` with `width`.
+
+`use_container_width` will be removed after 2025-12-31.
+
+For `use_container_width=True`, use `width='stretch'`. For `use_container_width=False`, use `width='content'`.
+2025-12-01 12:32:38.616 Please replace `use_container_width` with `width`.
+
+`use_container_width` will be removed after 2025-12-31.
+
+For `use_container_width=True`, use `width='stretch'`. For `use_container_width=False`, use `width='content'`.
+2025-12-01 12:32:38.648 Please replace `use_container_width` with `width`.
+
+`use_container_width` will be removed after 2025-12-31.
+
+For `use_container_width=True`, use `width='stretch'`. For `use_container_width=False`, use `width='content'`.
+2025-12-01 12:32:38.675 Please replace `use_container_width` with `width`.
+
+`use_container_width` will be removed after 2025-12-31.
+
+For `use_container_width=True`, use `width='stretch'`. For `use_container_width=False`, use `width='content'`.
+2025-12-01 12:32:38.708 Please replace `use_container_width` with `width`.
+
+`use_container_width` will be removed after 2025-12-31.
+
+For `use_container_width=True`, use `width='stretch'`. For `use_container_width=False`, use `width='content'`.
+C:\Hasita\Masters\ScholarLens\app.py:909: LegacyAPIWarning:
+
+The Query.get() method is considered legacy as of the 1.x series of SQLAlchemy and becomes a legacy construct in 2.0. The method is now available as Session.get() (deprecated since: 2.0) (Background on SQLAlchemy 2.0 at: https://sqlalche.me/e/b8d9)
+
+C:\Hasita\Masters\ScholarLens\app.py:909: LegacyAPIWarning:
+
+The Query.get() method is considered legacy as of the 1.x series of SQLAlchemy and becomes a legacy construct in 2.0. The method is now available as Session.get() (deprecated since: 2.0) (Background on SQLAlchemy 2.0 at: https://sqlalche.me/e/b8d9)
+
+C:\Hasita\Masters\ScholarLens\app.py:1259: LegacyAPIWarning:
+
+The Query.get() method is considered legacy as of the 1.x series of SQLAlchemy and becomes a legacy construct in 2.0. The method is now available as Session.get() (deprecated since: 2.0) (Background on SQLAlchemy 2.0 at: https://sqlalche.me/e/b8d9)
+
+C:\Hasita\Masters\ScholarLens\app.py:1259: LegacyAPIWarning:
+
+The Query.get() method is considered legacy as of the 1.x series of SQLAlchemy and becomes a legacy construct in 2.0. The method is now available as Session.get() (deprecated since: 2.0) (Background on SQLAlchemy 2.0 at: https://sqlalche.me/e/b8d9)
+
+C:\Hasita\Masters\ScholarLens\app.py:1259: LegacyAPIWarning:
+
+The Query.get() method is considered legacy as of the 1.x series of SQLAlchemy and becomes a legacy construct in 2.0. The method is now available as Session.get() (deprecated since: 2.0) (Background on SQLAlchemy 2.0 at: https://sqlalche.me/e/b8d9)
+
+C:\Hasita\Masters\ScholarLens\app.py:1183: LegacyAPIWarning:
+
+The Query.get() method is considered legacy as of the 1.x series of SQLAlchemy and becomes a legacy construct in 2.0. The method is now available as Session.get() (deprecated since: 2.0) (Background on SQLAlchemy 2.0 at: https://sqlalche.me/e/b8d9)
+
+C:\Hasita\Masters\ScholarLens\app.py:1259: LegacyAPIWarning:
+
+The Query.get() method is considered legacy as of the 1.x series of SQLAlchemy and becomes a legacy construct in 2.0. The method is now available as Session.get() (deprecated since: 2.0) (Background on SQLAlchemy 2.0 at: https://sqlalche.me/e/b8d9)
+
+C:\Hasita\Masters\ScholarLens\app.py:1259: LegacyAPIWarning:
+
+The Query.get() method is considered legacy as of the 1.x series of SQLAlchemy and becomes a legacy construct in 2.0. The method is now available as Session.get() (deprecated since: 2.0) (Background on SQLAlchemy 2.0 at: https://sqlalche.me/e/b8d9)
+
+C:\Hasita\Masters\ScholarLens\app.py:1183: LegacyAPIWarning:
+
+The Query.get() method is considered legacy as of the 1.x series of SQLAlchemy and becomes a legacy construct in 2.0. The method is now available as Session.get() (deprecated since: 2.0) (Background on SQLAlchemy 2.0 at: https://sqlalche.me/e/b8d9)
+
+C:\Hasita\Masters\ScholarLens\app.py:1259: LegacyAPIWarning:
+
+The Query.get() method is considered legacy as of the 1.x series of SQLAlchemy and becomes a legacy construct in 2.0. The method is now available as Session.get() (deprecated since: 2.0) (Background on SQLAlchemy 2.0 at: https://sqlalche.me/e/b8d9)
+
+2025-12-01 12:34:08.681 Please replace `use_container_width` with `width`.
+
+`use_container_width` will be removed after 2025-12-31.
+
+For `use_container_width=True`, use `width='stretch'`. For `use_container_width=False`, use `width='content'`.
+2025-12-01 12:34:08.687 Please replace `use_container_width` with `width`.
+
+`use_container_width` will be removed after 2025-12-31.
+
+For `use_container_width=True`, use `width='stretch'`. For `use_container_width=False`, use `width='content'`.
+2025-12-01 12:34:08.720 Please replace `use_container_width` with `width`.
+
+`use_container_width` will be removed after 2025-12-31.
+
+For `use_container_width=True`, use `width='stretch'`. For `use_container_width=False`, use `width='content'`.
+2025-12-01 12:34:08.747 Please replace `use_container_width` with `width`.
+
+`use_container_width` will be removed after 2025-12-31.
+
+For `use_container_width=True`, use `width='stretch'`. For `use_container_width=False`, use `width='content'`.
+2025-12-01 12:34:08.780 Please replace `use_container_width` with `width`.
+
+`use_container_width` will be removed after 2025-12-31.
+
+For `use_container_width=True`, use `width='stretch'`. For `use_container_width=False`, use `width='content'`.
+Cannot set gray non-stroke color because /'Paint9' is an invalid float value
+Cannot set gray non-stroke color because /'Paint15' is an invalid float value
+Cannot set gray non-stroke color because /'Paint21' is an invalid float value
+Cannot set gray non-stroke color because /'Paint4' is an invalid float value
+Cannot set gray non-stroke color because /'Paint7' is an invalid float value
+2025-12-01 12:44:52.767 Please replace `use_container_width` with `width`.
+
+`use_container_width` will be removed after 2025-12-31.
+
+For `use_container_width=True`, use `width='stretch'`. For `use_container_width=False`, use `width='content'`.
+2025-12-01 12:44:52.855 Please replace `use_container_width` with `width`.
+
+`use_container_width` will be removed after 2025-12-31.
+
+For `use_container_width=True`, use `width='stretch'`. For `use_container_width=False`, use `width='content'`.
+2025-12-01 12:44:52.888 Please replace `use_container_width` with `width`.
+
+`use_container_width` will be removed after 2025-12-31.
+
+For `use_container_width=True`, use `width='stretch'`. For `use_container_width=False`, use `width='content'`.
