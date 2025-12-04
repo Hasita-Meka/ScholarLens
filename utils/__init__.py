@@ -1,3 +1,0 @@
-"""
-ScholarLens utility modules
-"""
